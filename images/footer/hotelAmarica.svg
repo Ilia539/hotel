@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 121 65" width="121" height="65">
+	<style>
+		tspan { white-space:pre }
+		.txt0 { font-size: 46px;line-height: 50px;fill: #ffffff;font-weight: 700;font-family: "BebasNeueBold", "Bebas Neue" } 
+		.txt1 { font-size: 63px;line-height: 50px;fill: #4e26fd;font-weight: 700;font-family: "BebasNeueBold", "Bebas Neue" } 
+		.shp2 { fill: #4e26fd } 
+	</style>
+	<g id="PSDFreebies.com">
+		<g id="Footer">
+			<g id="logo">
+				<text id="hotel Amarica" style="transform: matrix(0.648,0,0,0.648,-0.281,32.807)" >
+					<tspan x="0" y="0" class="txt0" dx="0 2 2 2 2" >hotel</tspan>
+					<tspan x="0" y="70.032" class="txt1" dx="0 3 3 3 3 3 3" >Amarica</tspan>
+				</text>
+				<path id="Shape 1 copy 3" class="shp2" d="M102.85 0L104.77 3.68L108.67 4.47L105.95 7.53L106.45 11.7L102.85 9.92L99.26 11.7L99.75 7.53L97.04 4.47L100.94 3.68L102.85 0" />
+				<path id="Shape 1 copy 3" class="shp2" d="M93.81 14.3L95.73 17.98L99.62 18.77L96.91 21.83L97.4 26L93.81 24.22L90.22 26L90.71 21.83L88 18.77L91.9 17.98L93.81 14.3" />
+				<path id="Shape 1 copy 3" class="shp2" d="M113.19 14.3L115.1 17.98L119 18.77L116.29 21.83L116.78 26L113.19 24.22L109.6 26L110.09 21.83L107.38 18.77L111.27 17.98L113.19 14.3" />
+			</g>
+		</g>
+	</g>
+</svg>

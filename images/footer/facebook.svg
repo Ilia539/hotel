@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" width="34" height="34">
+	<defs>
+		<image width="24" height="53" id="img1" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA1MyIgd2lkdGg9IjI0IiBoZWlnaHQ9IjUzIj4KCTxkZWZzPgoJCTxjbGlwUGF0aCBjbGlwUGF0aFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgaWQ9ImNwMSI+CgkJCTxwYXRoIGQ9Ik0wIDBMMjQgMEwyNCA1M0wwIDUzWiIgLz4KCQk8L2NsaXBQYXRoPgoJPC9kZWZzPgoJPHN0eWxlPgoJCXRzcGFuIHsgd2hpdGUtc3BhY2U6cHJlIH0KCQkuc2hwMCB7IGZpbGw6ICM5OTk5OTkgfSAKCTwvc3R5bGU+Cgk8ZyBpZD0iUGFnZSAxIiBjbGlwLXBhdGg9InVybCgjY3AxKSI+CgkJPHBhdGggaWQ9IlBhdGggMSIgY2xhc3M9InNocDAiIGQ9Ik01LjM0IDI2Ljc1QzUuNDggMjYuOTIgNS40IDI4LjA5IDUuNCAyOC4zMUw1LjQxIDUzTDE2LjExIDUzQzE2LjE4IDQ2LjUgMTYuMTIgMzkuODMgMTYuMTIgMzMuM0MxNi4xMiAzMy4yMSAxNi4wOSAyNi45OCAxNi4xMiAyNi44NUMxNi4xNCAyNi43NiAxNi4xNSAyNi43NyAxNi4xNyAyNi43NEMxNi4xOCAyNi43NCAyMi45OCAyNi43OSAyMy4yMiAyNi43NEwyMy4zMyAyNi43TDI0LjI3IDE3LjY5TDE2LjE1IDE3LjY5QzE2LjEyIDE2LjM2IDE2LjE2IDE0Ljk5IDE2LjE2IDEzLjY2QzE2LjE2IDEyLjQ0IDE2LjEzIDEwLjkzIDE2Ljg1IDEwLjI2TDI0LjIzIDkuNTJMMjQuMjIgMC40OEMyMi44MiAwLjQgMjEuMTcgMC40NyAxOS43NCAwLjQ3QzE4LjI2IDAuNDcgMTYuNzYgMC40NCAxNS4zIDAuNTRDMTIuNTIgMC43MyAxMC4yOCAxLjU1IDguNjYgMi45NEM2LjMxIDYuNzEgNS40IDMuNDcgNS4zOCAxNy42OUwwIDE3LjdMMC4wMSAyNi43NUw1LjM0IDI2Ljc1WiIgLz4KCTwvZz4KPC9zdmc+"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #ffffff } 
+	</style>
+	<g id="PSDFreebies.com">
+		<g id="Footer">
+			<g id="Social Media">
+				<use id="Vector Smart Object" href="#img1" transform="matrix(0.742,0,0,0.723,13,8)"/>
+				<path id="Rectangle 3" class="shp0" d="M0 0L34 0L34 34L0 34L0 0Z" />
+			</g>
+		</g>
+	</g>
+</svg>
